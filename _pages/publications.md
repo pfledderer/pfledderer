@@ -3,7 +3,7 @@ title: "Pfledderer's Lab - Publications"
 layout: gridlay
 excerpt: "Pfledderer's Lab--Publications."
 sitemap: false
-permalink: /pfledderer/publications/
+permalink: /publications/
 ---
 
 
